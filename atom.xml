@@ -6,7 +6,7 @@
   <link href="https://qinjiaen.github.io/atom.xml" rel="self"/>
   
   <link href="https://qinjiaen.github.io/"/>
-  <updated>2023-05-12T08:40:08.719Z</updated>
+  <updated>2023-05-16T01:38:30.373Z</updated>
   <id>https://qinjiaen.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个关于hexo提供下载的尝试</title>
+    <link href="https://qinjiaen.github.io/posts/345212/"/>
+    <id>https://qinjiaen.github.io/posts/345212/</id>
+    <published>2023-05-16T01:24:33.000Z</published>
+    <updated>2023-05-16T01:38:30.373Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;开始动手&quot;&gt;&lt;a href=&quot;#开始动手&quot; class=&quot;headerlink&quot; title=&quot;开始动手&quot;&gt;&lt;/a&gt;开始动手&lt;/h2&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="尝试" scheme="https://qinjiaen.github.io/tags/%E5%B0%9D%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>web总结</title>
@@ -67,14 +90,14 @@
     <link href="https://qinjiaen.github.io/posts/c5e9cf91/"/>
     <id>https://qinjiaen.github.io/posts/c5e9cf91/</id>
     <published>2023-05-12T01:04:44.000Z</published>
-    <updated>2023-05-12T01:08:39.562Z</updated>
+    <updated>2023-05-16T01:50:00.320Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;面试题小结&quot;&gt;&lt;a href=&quot;#面试题小结&quot; class=&quot;headerlink&quot; title=&quot;面试题小结&quot;&gt;&lt;/a&gt;面试题小结&lt;/h1&gt;&lt;h3 id=&quot;x3D-x3D-和equlas-的区别&quot;&gt;&lt;a href=&quot;#x3D-x3D-和equlas-的区别&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;面试题小结&quot;&gt;&lt;a href=&quot;#面试题小结&quot; class=&quot;headerlink&quot; title=&quot;面试题小结&quot;&gt;&lt;/a&gt;面试题小结&lt;/h1&gt;&lt;h1 id=&quot;1-内存结构&quot;&gt;&lt;a href=&quot;#1-内存结构&quot; class=&quot;headerlink&quot;</summary>
         
       
     
