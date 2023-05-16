@@ -6,7 +6,7 @@
   <link href="https://qinjiaen.github.io/atom.xml" rel="self"/>
   
   <link href="https://qinjiaen.github.io/"/>
-  <updated>2023-05-16T01:38:30.373Z</updated>
+  <updated>2023-05-16T09:22:40.649Z</updated>
   <id>https://qinjiaen.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Web阶段注解分析</title>
+    <link href="https://qinjiaen.github.io/posts/a85d6283/"/>
+    <id>https://qinjiaen.github.io/posts/a85d6283/</id>
+    <published>2023-05-16T08:57:21.000Z</published>
+    <updated>2023-05-16T09:22:40.649Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;RequestParam-PathVariable和-RequestBody三者区别&quot;&gt;&lt;a href=&quot;#RequestParam-PathVariable和-RequestBody三者区别&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="注解" scheme="https://qinjiaen.github.io/tags/%E6%B3%A8%E8%A7%A3/"/>
+    
+  </entry>
   
   <entry>
     <title>一个关于hexo提供下载的尝试</title>
