@@ -6,7 +6,7 @@
   <link href="https://qinjiaen.github.io/atom.xml" rel="self"/>
   
   <link href="https://qinjiaen.github.io/"/>
-  <updated>2023-05-16T09:22:40.649Z</updated>
+  <updated>2023-05-24T11:20:22.655Z</updated>
   <id>https://qinjiaen.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AOP笔记</title>
+    <link href="https://qinjiaen.github.io/posts/fd57f765/"/>
+    <id>https://qinjiaen.github.io/posts/fd57f765/</id>
+    <published>2023-05-24T10:02:34.000Z</published>
+    <updated>2023-05-24T11:20:22.655Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;事务管理-amp-AOP笔记&quot;&gt;&lt;a href=&quot;#事务管理-amp-AOP笔记&quot; class=&quot;headerlink&quot; title=&quot;事务管理&amp;amp;AOP笔记&quot;&gt;&lt;/a&gt;事务管理&amp;amp;AOP笔记&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="记录、笔记" scheme="https://qinjiaen.github.io/tags/%E8%AE%B0%E5%BD%95%E3%80%81%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>Web阶段注解分析</title>

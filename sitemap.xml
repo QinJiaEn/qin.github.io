@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qinjiaen.github.io/posts/fd57f765/</loc>
+    
+    <lastmod>2023-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://qinjiaen.github.io/posts/a85d6283/</loc>
     
     <lastmod>2023-05-16</lastmod>
@@ -94,36 +103,43 @@
 
   <url>
     <loc>https://qinjiaen.github.io/</loc>
-    <lastmod>2023-05-16</lastmod>
+    <lastmod>2023-05-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://qinjiaen.github.io/tags/%E8%AE%B0%E5%BD%95%E3%80%81%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://qinjiaen.github.io/tags/%E6%B3%A8%E8%A7%A3/</loc>
-    <lastmod>2023-05-16</lastmod>
+    <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://qinjiaen.github.io/tags/%E5%B0%8F%E7%BB%93%E3%80%81%E5%A4%8D%E4%B9%A0/</loc>
-    <lastmod>2023-05-16</lastmod>
+    <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://qinjiaen.github.io/tags/web/</loc>
-    <lastmod>2023-05-16</lastmod>
+    <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://qinjiaen.github.io/tags/%E5%B0%9D%E8%AF%95/</loc>
-    <lastmod>2023-05-16</lastmod>
+    <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
