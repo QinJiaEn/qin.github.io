@@ -140,6 +140,13 @@
   </url>
   
   <url>
+    <loc>https://qinjiaen.github.io/tags/%E5%B0%9D%E8%AF%95/</loc>
+    <lastmod>2023-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://qinjiaen.github.io/tags/%E5%B0%8F%E7%BB%93%E3%80%81%E5%A4%8D%E4%B9%A0/</loc>
     <lastmod>2023-05-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -148,13 +155,6 @@
   
   <url>
     <loc>https://qinjiaen.github.io/tags/web/</loc>
-    <lastmod>2023-05-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://qinjiaen.github.io/tags/%E5%B0%9D%E8%AF%95/</loc>
     <lastmod>2023-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
