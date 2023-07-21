@@ -6,7 +6,7 @@
   <link href="https://qinjiaen.github.io/atom.xml" rel="self"/>
   
   <link href="https://qinjiaen.github.io/"/>
-  <updated>2023-07-21T11:34:32.147Z</updated>
+  <updated>2023-07-21T11:51:33.753Z</updated>
   <id>https://qinjiaen.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://qinjiaen.github.io/posts/0/"/>
-    <id>https://qinjiaen.github.io/posts/0/</id>
-    <published>2023-07-21T03:41:22.227Z</published>
-    <updated>2023-07-21T11:34:32.147Z</updated>
+    <title>八股文</title>
+    <link href="https://qinjiaen.github.io/posts/fd57f765/"/>
+    <id>https://qinjiaen.github.io/posts/fd57f765/</id>
+    <published>2023-07-21T11:02:34.000Z</published>
+    <updated>2023-07-21T11:51:33.753Z</updated>
     
     
       
@@ -35,26 +35,7 @@
     
     
     
-  </entry>
-  
-  <entry>
-    <title>tjxt</title>
-    <link href="https://qinjiaen.github.io/posts/30d7e0fa/"/>
-    <id>https://qinjiaen.github.io/posts/30d7e0fa/</id>
-    <published>2023-07-11T03:48:44.000Z</published>
-    <updated>2023-07-11T03:53:11.217Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;持续集成&quot;&gt;&lt;a href=&quot;#持续集成&quot; class=&quot;headerlink&quot; title=&quot;持续集成&quot;&gt;&lt;/a&gt;持续集成&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/posts/30d7e0fa/image-20230711114923240.png&quot;</summary>
-        
-      
-    
-    
-    
+    <category term="记录、笔记" scheme="https://qinjiaen.github.io/tags/%E8%AE%B0%E5%BD%95%E3%80%81%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -82,15 +63,48 @@
   </entry>
   
   <entry>
-    <title>微服务</title>
-    <link href="https://qinjiaen.github.io/posts/460c1130/"/>
-    <id>https://qinjiaen.github.io/posts/460c1130/</id>
-    <published>2023-06-14T02:23:17.000Z</published>
-    <updated>2023-07-10T05:17:06.352Z</updated>
+    <title>AOP笔记</title>
+    <link href="https://qinjiaen.github.io/posts/fd57f765/"/>
+    <id>https://qinjiaen.github.io/posts/fd57f765/</id>
+    <published>2023-06-24T10:02:34.000Z</published>
+    <updated>2023-07-21T11:44:21.153Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;事务管理-amp-AOP笔记&quot;&gt;&lt;a href=&quot;#事务管理-amp-AOP笔记&quot; class=&quot;headerlink&quot; title=&quot;事务管理&amp;amp;AOP笔记&quot;&gt;&lt;/a&gt;事务管理&amp;amp;AOP笔记&lt;/h1&gt;&lt;h2</summary>
+        
+      
     
     
     
     
+    <category term="记录、笔记" scheme="https://qinjiaen.github.io/tags/%E8%AE%B0%E5%BD%95%E3%80%81%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot注解总结</title>
+    <link href="https://qinjiaen.github.io/posts/2d62ae04/"/>
+    <id>https://qinjiaen.github.io/posts/2d62ae04/</id>
+    <published>2023-06-12T08:05:20.000Z</published>
+    <updated>2023-07-21T11:43:46.172Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;注解总结&quot;&gt;&lt;a href=&quot;#注解总结&quot; class=&quot;headerlink&quot; title=&quot;注解总结&quot;&gt;&lt;/a&gt;注解总结&lt;/h1&gt;&lt;h2 id=&quot;1-把对象放到Spring容器中&quot;&gt;&lt;a href=&quot;#1-把对象放到Spring容器中&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="注解" scheme="https://qinjiaen.github.io/tags/%E6%B3%A8%E8%A7%A3/"/>
     
   </entry>
   
@@ -141,25 +155,25 @@
   </entry>
   
   <entry>
-    <title>AOP笔记</title>
-    <link href="https://qinjiaen.github.io/posts/fd57f765/"/>
-    <id>https://qinjiaen.github.io/posts/fd57f765/</id>
-    <published>2023-05-24T10:02:34.000Z</published>
-    <updated>2023-05-24T12:07:15.045Z</updated>
+    <title>JavaSE阶段笔记</title>
+    <link href="https://qinjiaen.github.io/posts/737a1d7/"/>
+    <id>https://qinjiaen.github.io/posts/737a1d7/</id>
+    <published>2023-05-22T14:33:16.000Z</published>
+    <updated>2023-07-21T11:44:04.076Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;事务管理-amp-AOP笔记&quot;&gt;&lt;a href=&quot;#事务管理-amp-AOP笔记&quot; class=&quot;headerlink&quot; title=&quot;事务管理&amp;amp;AOP笔记&quot;&gt;&lt;/a&gt;事务管理&amp;amp;AOP笔记&lt;/h1&gt;&lt;h2</summary>
+    <summary type="html">&lt;h1 id=&quot;面向对象编程&quot;&gt;&lt;a href=&quot;#面向对象编程&quot; class=&quot;headerlink&quot; title=&quot;面向对象编程&quot;&gt;&lt;/a&gt;面向对象编程&lt;/h1&gt;&lt;h2 id=&quot;定义类的补充注意事项&quot;&gt;&lt;a href=&quot;#定义类的补充注意事项&quot;</summary>
         
       
     
     
     
     
-    <category term="记录、笔记" scheme="https://qinjiaen.github.io/tags/%E8%AE%B0%E5%BD%95%E3%80%81%E7%AC%94%E8%AE%B0/"/>
+    <category term="小结、复习" scheme="https://qinjiaen.github.io/tags/%E5%B0%8F%E7%BB%93%E3%80%81%E5%A4%8D%E4%B9%A0/"/>
     
   </entry>
   
@@ -233,29 +247,6 @@
   </entry>
   
   <entry>
-    <title>SpringBoot注解总结</title>
-    <link href="https://qinjiaen.github.io/posts/2d62ae04/"/>
-    <id>https://qinjiaen.github.io/posts/2d62ae04/</id>
-    <published>2023-05-12T08:05:20.000Z</published>
-    <updated>2023-05-12T08:39:51.998Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;注解总结&quot;&gt;&lt;a href=&quot;#注解总结&quot; class=&quot;headerlink&quot; title=&quot;注解总结&quot;&gt;&lt;/a&gt;注解总结&lt;/h1&gt;&lt;h2 id=&quot;1-把对象放到Spring容器中&quot;&gt;&lt;a href=&quot;#1-把对象放到Spring容器中&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="注解" scheme="https://qinjiaen.github.io/tags/%E6%B3%A8%E8%A7%A3/"/>
-    
-  </entry>
-  
-  <entry>
     <title>面试题库</title>
     <link href="https://qinjiaen.github.io/posts/c5e9cf91/"/>
     <id>https://qinjiaen.github.io/posts/c5e9cf91/</id>
@@ -273,29 +264,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>JavaSE阶段笔记</title>
-    <link href="https://qinjiaen.github.io/posts/737a1d7/"/>
-    <id>https://qinjiaen.github.io/posts/737a1d7/</id>
-    <published>2023-05-11T14:33:16.000Z</published>
-    <updated>2023-05-12T07:03:38.729Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;面向对象编程&quot;&gt;&lt;a href=&quot;#面向对象编程&quot; class=&quot;headerlink&quot; title=&quot;面向对象编程&quot;&gt;&lt;/a&gt;面向对象编程&lt;/h1&gt;&lt;h2 id=&quot;定义类的补充注意事项&quot;&gt;&lt;a href=&quot;#定义类的补充注意事项&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="小结、复习" scheme="https://qinjiaen.github.io/tags/%E5%B0%8F%E7%BB%93%E3%80%81%E5%A4%8D%E4%B9%A0/"/>
     
   </entry>
   
