@@ -146,13 +146,6 @@
 
   
   <url>
-    <loc>https://qinjiaen.github.io/tags/redis/</loc>
-    <lastmod>2023-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://qinjiaen.github.io/tags/%E8%AE%B0%E5%BD%95%E3%80%81%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-07-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -167,14 +160,14 @@
   </url>
   
   <url>
-    <loc>https://qinjiaen.github.io/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
+    <loc>https://qinjiaen.github.io/tags/redis/</loc>
     <lastmod>2023-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://qinjiaen.github.io/tags/web/</loc>
+    <loc>https://qinjiaen.github.io/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
     <lastmod>2023-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -203,6 +196,13 @@
   
   <url>
     <loc>https://qinjiaen.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2023-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://qinjiaen.github.io/tags/web/</loc>
     <lastmod>2023-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
